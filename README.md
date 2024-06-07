@@ -68,7 +68,7 @@ git add .
 git commit -m "prueba2"
 
 5. Añadir el repositorio remoto y subir los cambios
-git remote add origin https://github.com/ianduoccl/Prueba-2-.git
+git remote add origin https://github.com/usuariogit/Prueba-2-.git
 git remote remove origin
 git remote add origin https://correogit:TOKEN@github.com/usuariogit/Prueba-2-.git
 git push -u origin master
